@@ -33,12 +33,12 @@
 </br>Timing Violations removed by path resetting
 
 ## Report by
-**## Suhas B Shirol, Assistant Professor, KLE Tech**
+ Suhas B Shirol, Assistant Professor, KLE Tech
 
 ## Acknowledgement
-**Kunal Ghosh, Co-founder, VLSI System Design (VSD) Corp. Pvt. Ltd.
-Steeve Hoover, Founder, Redwood EDA
-Shivani Shah, MS @ IIIT, Bangalore Dr Naveed and Dr Shrikanth, OSFPGA Foundation.**
+</br>.Kunal Ghosh, Co-founder, VLSI System Design (VSD) Corp. Pvt. Ltd.
+</br>Steeve Hoover, Founder, Redwood EDA
+</br>Shivani Shah, MS @ IIIT, Bangalore Dr Naveed and Dr Shrikanth, OSFPGA Foundation.**
 
 
 
