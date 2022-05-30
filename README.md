@@ -1,13 +1,13 @@
 
 **Mixed_Signal_FPGA_RISCV**
 </br>![download](https://user-images.githubusercontent.com/66528639/171029093-b7e74508-fe40-4708-9cda-f00e13095807.png)
-<\br>![1_tlv_to_verilog](https://user-images.githubusercontent.com/66528639/171022536-90058c02-4512-4af4-93e2-0043f8a71ea1.jpg)
-<\br>TLV file to verilog file Conversion
-<\br>
-<\br>![2_top_module](https://user-images.githubusercontent.com/66528639/171022609-6aa87fee-811c-491d-aa98-b081e882e6d2.jpg)
-<\br>Top module of Design
-<\br>
-<\br>![3_Simulation_gtk](https://user-images.githubusercontent.com/66528639/171022718-478e4136-36f8-4b36-a396-7b2d23b969f2.jpg)
+</br>![1_tlv_to_verilog](https://user-images.githubusercontent.com/66528639/171022536-90058c02-4512-4af4-93e2-0043f8a71ea1.jpg)
+</br>TLV file to verilog file Conversion
+</br>
+</br>![2_top_module](https://user-images.githubusercontent.com/66528639/171022609-6aa87fee-811c-491d-aa98-b081e882e6d2.jpg)
+</br>Top module of Design
+</br>
+</br>![3_Simulation_gtk](https://user-images.githubusercontent.com/66528639/171022718-478e4136-36f8-4b36-a396-7b2d23b969f2.jpg)
 <\br>Simulation results in GTK
 <\br>
 <\br>![4_Simulation_gtk_analog](https://user-images.githubusercontent.com/66528639/171022892-9b880e1f-8329-47b9-af67-6ea134d4b02a.jpg)
