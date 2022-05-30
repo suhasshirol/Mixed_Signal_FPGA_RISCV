@@ -1,6 +1,6 @@
-# Mixed_Signal_FPGA_RISCV
+
 **Mixed_Signal_FPGA_RISCV**
-<\br>
+
 <\br>![1_tlv_to_verilog](https://user-images.githubusercontent.com/66528639/171022536-90058c02-4512-4af4-93e2-0043f8a71ea1.jpg)
 <\br>TLV file to verilog file Conversion
 <\br>
@@ -28,7 +28,6 @@
 <\br>ILA Setting Clock
 <\br>![11_Simulation_output](https://user-images.githubusercontent.com/66528639/171023614-f098c032-9be4-4e94-ad12-d8fa861a284d.jpg)<\br>Simulation using Vivado
 <\br>![12_Timing_violations](https://user-images.githubusercontent.com/66528639/171023712-4fc8d545-d915-4e41-bcd6-a9cbbf4462c0.jpg)
-
 <\br>Timing Violations
 <\br>![13_Path_resetting](https://user-images.githubusercontent.com/66528639/171023737-8bf39321-a96d-47d5-beb6-d4c99c6c5288.jpg)
 <\br>Timing Violations removed by path resetting
